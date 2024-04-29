@@ -16,6 +16,3 @@
 *  Spring Boot
 *  PostgreSQL
 *  Docker
-
-## Here's a meme if you read up so far 🥳🎉
-https://imgur.com/a/CVR87Dr
