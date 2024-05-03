@@ -4,9 +4,7 @@ Hello there, I'm Filip, a passionate web developer dedicated to crafting excepti
 Within this portfolio, you'll find a diverse array of projects that reflect my commitment to continuous learning and innovation - because I believe that continuous learning is one of the greatest virtues.
 
 ## Currently learning 
-* React
 * Microservices based web applications
-* Integrating backend apps with frontend
 * Deepening my Java knowledge
 
 ## Main Tech stack 
@@ -16,3 +14,4 @@ Within this portfolio, you'll find a diverse array of projects that reflect my c
 *  Spring Boot
 *  PostgreSQL
 *  Docker
+*  React
