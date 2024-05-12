@@ -6,6 +6,7 @@ Within this portfolio, you'll find a diverse array of projects that reflect my c
 ## Currently learning 
 * Microservices based web applications
 * Deepening my Java knowledge
+* Ruby on rails
 
 ## Main Tech stack 
 *  Nest.JS
