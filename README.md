@@ -1,12 +1,12 @@
 ## Welcome to my github page
-Hello there, I'm Filip, a passionate web developer dedicated to crafting exceptional digital experiences. I would love to present a blend of smaller projects aimed at honing every aspect of web development with great attention to detail, alongside larger challenges aimed at pushing the boundaries of design and solution-oriented thinking.
-
-Within this portfolio, you'll find a diverse array of projects that reflect my commitment to continuous learning and innovation - because I believe that continuous learning is one of the greatest virtues.
+Hi, I'm Filip, a web developer focused on creating high-quality digital experiences. My portfolio includes a mix of smaller projects that refine my skills and larger ones that challenge me to push design and problem-solving boundaries. I'm committed to learning and innovation, believing that continuous learning is key to success.
 
 ## Currently learning 
 * Microservices based web applications
-* Deepening my Java knowledge
-* Ruby on rails
+* Deepening my Java and NestJS knowledge
+
+## Currently working on in private
+* My bachelor's work, which is a fullstack NestJS and React Native based application
 
 ## Main Tech stack 
 *  Nest.JS
